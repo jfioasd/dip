@@ -13,7 +13,7 @@ A tiny esolang
   * push `N-1`
   * run `_b_` as dip code
 
-## Extra commands & I/O
+## Extra Commands & I/O
 For I/O, the program reads in a line of space-separated integers. This is used as the initial stack.
 
 At the end of the program, the whole stack is outputted (like there's a `!` command).
